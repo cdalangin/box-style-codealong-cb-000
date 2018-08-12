@@ -225,7 +225,7 @@ img, video, audio, iframe, table, form {
 }
 
 #navbar nav a {
-  display:inline-block;
+  display: inline-block;
   width: 16.6666%;
   margin: 0;
   padding: 22px 0;
@@ -238,7 +238,7 @@ img, video, audio, iframe, table, form {
 }
 
 #navbar nav a.selected {
-  bacground: #333;
+  background: #333;
   color: white;
   background: rgb(0, 0, 0); /* Old browsers */
 background: -moz-linear-gradient(

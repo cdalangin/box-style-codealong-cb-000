@@ -210,7 +210,9 @@ img, video, audio, iframe, table, form {
 
 /*////////// NAVBAR //////////*/
 
-
+#navbar {
+  position: fixed;
+}
 
 /*////////// LOGO //////////*/
 
